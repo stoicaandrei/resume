@@ -6,7 +6,7 @@ This is a LaTeX template for creating a CV. It is based on the [mcdowellcv](http
 
 Mac users
 ```
-brew install texlive-full
+brew install texlive
 ```
 
 ## Usage
