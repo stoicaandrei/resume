@@ -2,6 +2,13 @@
 
 This is a LaTeX template for creating a CV. It is based on the [mcdowellcv](https://github.com/mcdowell/mcdowellcv) template by [Daniil Belyakov](https://github.com/mcdowell).
 
+## Instalation
+
+Mac users
+```
+brew install texlive-full
+```
+
 ## Usage
 
 To use this template, you will need to have a LaTeX distribution installed on your computer. You can then open the `template.tex` file in your preferred text editor and start customizing the content.
