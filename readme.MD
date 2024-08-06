@@ -1,6 +1,6 @@
 # CV Template
 
-This is a LaTeX template for creating a CV. It is based on the [mcdowellcv](https://github.com/mcdowell/mcdowellcv) template by [Daniil Belyakov](https://github.com/mcdowell).
+This is a LaTeX template for creating a CV. It is based on the mcdowellcv template by [Daniil Belyakov](https://github.com/dnl-blkv/mcdowell-cv).
 
 ## Instalation
 
