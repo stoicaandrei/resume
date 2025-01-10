@@ -5,6 +5,7 @@ This is a LaTeX template for creating a CV. It is based on the mcdowellcv templa
 ## Instalation
 
 Mac users
+
 ```
 brew install texlive
 ```
@@ -24,3 +25,13 @@ This will create a `template.pdf` file in the same directory as the `template.te
 ## Customization
 
 You can customize the content of the CV by editing the `template.tex` file.
+
+## Development
+
+You can watch the file for changes and recompile it by running the following command in your terminal:
+
+```
+./watch_tex_compile.sh template.tex
+```
+
+This will recompile the file whenever you make changes to it.
